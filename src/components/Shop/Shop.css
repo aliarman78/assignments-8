@@ -17,3 +17,22 @@
   background-color: gainsboro;
   padding: 0 20px;
 }
+
+@media screen and (max-width: 576px) {
+  .product-container {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      gap: 20px;
+      margin: 0px 0px;
+  }
+  .shop-container:last-child {
+      top: 0;
+      bottom: auto;
+  }
+  .shop-container {
+      display: flex;
+      flex-direction: column-reverse;
+      padding: 20px;
+      margin-top: 20px;
+  }
+}
