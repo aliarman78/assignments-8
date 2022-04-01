@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Phone Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Phone Shop Live Link [Phone Shop](https://phone-shop-website.netlify.app).
 
 ## Available Scripts
 
