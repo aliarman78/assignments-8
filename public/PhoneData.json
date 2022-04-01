@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "iphone 12",
+    "brand": "Apple",
+    "storage": "256GB",
+    "price": 659.00,
+    "img": "images/iphone-12.jpg"
+  },
+  {
+    "id": "2",
+    "name": "iphone 11",
+    "brand": "Apple",
+    "storage": "128GB",
+    "price": 479.00,
+    "img": "images/iphone-11.jpg"
+  },
+  {
+    "id": "3",
+    "name": "iphone XS Max",
+    "brand": "Apple",
+    "storage": "64GB",
+    "price": 419.00,
+    "img": "images/iphone-xs-max.jpg"
+  },
+  {
+    "id": "4",
+    "name": "OnePlus 9 Pro",
+    "brand": "OnePlus",
+    "storage": "254GB",
+    "price": 799.99,
+    "img": "images/oneplus-9-pro.jpg"
+  },
+  {
+    "id": "5",
+    "name": "OnePlus 8",
+    "brand": "OnePlus",
+    "storage": "128GB",
+    "price": 599.99,
+    "img": "images/oneplus-8.jpg"
+  },
+  {
+    "id": "6",
+    "name": "OnepPlus Nord N200",
+    "brand": "OnePlus",
+    "storage": "4GB",
+    "price": 239.99,
+    "img": "images/oneplus-nord-n200.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Samsung Galaxy S21",
+    "brand": "Samsung",
+    "storage": "128GB",
+    "price": 549.99,
+    "img": "images/samsung-galaxy-s21.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Samsung Galaxy S20",
+    "brand": "Samsung",
+    "storage": "64GB",
+    "price": 499.99,
+    "img": "images/samsung-galaxy-s20.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Samsung Galaxy A52",
+    "brand": "Samsung",
+    "storage": "4GB", 
+    "price": 399.99,
+    "img": "images/samsung-galaxy-a52.jpg"
+  }
+]

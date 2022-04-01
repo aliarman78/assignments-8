@@ -1,0 +1,14 @@
+.products{
+  position: relative;
+  border: 3px solid aliceblue;
+  border-radius: 4px;
+}
+
+.product-details{
+  margin-bottom: 30px;
+}
+
+.cart-btn{
+  position: absolute;
+  bottom: 0;
+}

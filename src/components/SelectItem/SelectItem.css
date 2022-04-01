@@ -1,0 +1,14 @@
+.SelectItem{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.SelectItem img {
+  width: 160px;
+  border-radius: 20px;
+  margin-right: 10px;
+}
